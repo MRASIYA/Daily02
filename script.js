@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Function to open the Google Apps Script web app
     window.openApp = function() {
-        const appUrl = 'https://script.google.com/macros/s/AKfycbzxiyxIKbjYbv2XI1Q4CoiFs2A4v6hMkiO_qxJKu6Qmi9bZTVeL8IDRxGoh8XEzAXrv/exec';
+        const appUrl = 'https://script.google.com/macros/s/AKfycbyZwQrxxXeDnT1llTZb3h7Mj059z4y_3JuKnmQ2p5yIdQXbxttoDblg4coapbSy-gkq/exec';
         const appFrame = document.getElementById('appFrame');
         const previewPlaceholder = document.getElementById('previewPlaceholder');
 
